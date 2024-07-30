@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-[![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=wangqiqi12)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangqiqi12&show_icons=true&theme=tokyonight)
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/wangqiqi12/count.svg) visitor,Thank You! :kissing_heart::kissing_heart:
 
