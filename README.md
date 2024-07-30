@@ -1,21 +1,12 @@
 ## Hi there 👋
 
-<!--
-**wangqiqi12/wangqiqi12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=wangqiqi12)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on something cool.
-- 🌱 I’m currently learning Everything I like.
-- 💬 Ask me about anything related to Java/Python.
-- 📫 How to reach me: wisdom_zhe@qq.com
-- 😄 Read more about my CSDN: [here](https://blog.csdn.net/qq_44231797?spm=1000.2115.3001.5343)
-
-![](https://github-readme-stats.vercel.app/api?username=wangqiqi12&show_icons=true&theme=transparent)
-
-You are my ![Visitor Count](https://profile-counter.glitch.me/wangqiqi12/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
+You are my ![Visitor Count](https://profile-counter.glitch.me/wangqiqi12/count.svg) visitor,Thank You! :kissing_heart::kissing_heart:
 
 ### My Skill Set
 
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+I'm a complete novice on learning CS although my major is that. I'm glad to learn from you if you can give me some advice on learning CS! 
 
 
