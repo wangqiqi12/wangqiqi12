@@ -7,6 +7,6 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/wangqiqi12/count.s
 
 ### My Brief Introduction
 
-I'm a complete novice on learning CS although my major is that. I'm glad to learn from you if you can give me some advice on learning CS! 
+I'm a complete novice on learning CS although my major is that. I'm glad to make friends with you if you can give me some advice on learning CS! 
 
-Here is my personal blog!  ![wangqiqi's blog](https://wangqiqi12.github.io/)
+Here is my [blog](https://wangqiqi12.github.io/)!
